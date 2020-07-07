@@ -1,0 +1,62 @@
+
+.container{
+    margin-bottom: 100px;
+}
+.navbar-brand img{
+    width: 120px;
+}
+
+.buy-now-button{
+    background-image: linear-gradient(to bottom,#FF589B 10%,#FF136F);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+
+}
+.card img{
+    width: 200px;
+}
+
+.card-footer{
+    background-color: white;
+    border: none;
+   
+}
+.cate h2::after{
+    content: "--------";
+    display: block;
+    color: #FF136F;
+  
+}
+.catimg{
+    width: 200px;
+    text-align: center;
+    padding: 5px;
+    box-shadow: 7px 7px 10px lightgray;
+}
+.catimg h5{
+    margin-top: 5px;
+    padding-left: 5px;
+}
+
+#cat-hr{
+    width: 100px;
+    height: 5px;
+    background-color: yellow;
+}
+.cat-bag{
+    width: 130px;
+    height: 170px;
+    margin-bottom: 15px;
+    border: none;
+    box-shadow: 7px 7px 10px lightgray;
+    padding: 5px;
+}
+.cat-bag img{
+    width: 100%;
+}
+.cat-bag .card-title{
+    text-align: center;
+}
